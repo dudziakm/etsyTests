@@ -1,0 +1,13 @@
+# IDEA
+# ----
+!/.idea
+/.idea/*
+.idea/*
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/selenium_template.iml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
